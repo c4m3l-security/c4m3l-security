@@ -5,7 +5,7 @@
 </p>
 
 <p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c4m3l-security" alt="c4m3l-security" /></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c4m3l-security&theme=matrix" alt="c4m3l-security" /></a> 
 </p>
 
 <p>
