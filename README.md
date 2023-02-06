@@ -6,7 +6,7 @@ My name is Jonas and I am a whitehat hacker from Denmark. I am passionate about 
 
 I have lots of knowledge in identifying and remediating vulnerabilities. I have proven experience in penetration testing and I am also well-versed in various tools and frameworks. 
 
-Furthermore, I write my own tools and exploits to keep challenging myself and also to contribute to the cybersecurity community. You can follow most of my work on my personal blog and some work on Github.
+Furthermore, I write my own tools and exploits to keep challenging myself and also to contribute to the cybersecurity community. 
 
 # Contact
 E-mail: jonas@jhsec.dk
